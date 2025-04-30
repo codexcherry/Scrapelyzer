@@ -1,6 +1,6 @@
-# Asha AI - Web Scraping Module
+# Scrapelyzer - Web Scraping Module
 
-This module handles web scraping for job listings, events, and mentorship opportunities for the Asha AI project.
+This module handles web scraping for job listings, events, and mentorship opportunities.
 
 ## Setup
 
@@ -56,7 +56,3 @@ When adding new scrapers:
 2. Implement the `extract_data` method
 3. Add appropriate error handling and logging
 4. Test with the target website's robots.txt
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
